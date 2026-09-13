@@ -9,7 +9,7 @@ function Footer(){
 
       <div className="footer-container">
 
-        <p>© 2026 Amine Hamzaoui</p>
+        <p>© 2026 Ar Raffi Ardhiansyah</p>
 
         <div className="social-icons">
 

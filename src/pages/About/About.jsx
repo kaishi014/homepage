@@ -40,7 +40,7 @@ function About() {
 
         <div className="text-about">
           <p>
-            Hi, I'm Amine, a passionate Frontend Developer and Computer Science student.
+            Hi, I'm arraffi, a passionate Frontend Developer and Computer Science student.
             I enjoy building modern, responsive, and interactive web interfaces that provide
             a great user experience. I focus on clean design, smooth animations, and writing
             efficient code using modern web technologies. I'm always learning new tools and
